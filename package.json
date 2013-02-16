@@ -1,0 +1,11 @@
+{
+    "name": "node-secureheaders"
+  , "description": "Security Related Headers for node's connect middleware"
+  , "version": "0.0.1"
+  , "private": false
+  , "author": "Mattjay & ProZachJ"
+  , "dependencies": {
+  	"connect": "latest",
+  	"ua-parser": "latest"
+  }
+}
